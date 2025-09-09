@@ -17,6 +17,7 @@ applyTo:
 - MVC パターンを維持する（Controller - Service - Repository）
 - DIを適切に使用し、@Autowiredよりもコンストラクタインジェクションを推奨
 - RESTful APIの設計原則に従う
+- 1コントローラー1エンドポイントを基本とする
 
 ## コード品質
 - メソッドは単一責任の原則に従い、簡潔に保つ
